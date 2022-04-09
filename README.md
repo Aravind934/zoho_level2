@@ -11,3 +11,5 @@
 # Q6) max polindrome - Time complexity O(n) , aproach - count sort method
 
 # Q7) distinct word - Time complexity O(n) , aproach - none ,Datastructure - hash map (Here i have used inbuild object datatype as hashmap)
+
+# Q1, Q4) pattern programs done through c program
